@@ -31,6 +31,6 @@ A function to run the SLCMA / least angle regression (LARS) using complete data 
 
 A reproducible example of applying the function to simulated toy data. 
 
-## Who to contact if I have questions? 
+## Who should I contact if I have questions? 
 
-Please email dunnlab@mgh.harvard.edu. 
+Please email us at dunnlab@mgh.harvard.edu. 
