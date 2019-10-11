@@ -39,7 +39,7 @@ dat$smoking <- as.factor(dat$smoking)
 
 
 # source LARS function ----------------------------------------------------
-source("LARS-noimpute-function-2019-08-29")
+source("function-SLCMA-complete-cases.R")
 
 
 
