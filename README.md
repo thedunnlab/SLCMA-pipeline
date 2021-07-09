@@ -25,7 +25,7 @@ Yes, other researchers as well as our lab have used the SLCMA to study the effec
 
 - `function-SLCMA-complete-cases.R` 
 
-A function to run the SLCMA / least angle regression (LARS) using complete data (i.e, this function does not accomodate imputed objects.) Two post-selection inference options are available: the covariance test (`covTest`) or selective inference (`sI`). Note that because the `covTest` package has been archived, we included the source code in this script. 
+A function to run the SLCMA / least angle regression (LARS) using complete data. This function does not accomodate imputed objects. The post-selection inference method, selective inference (`sI`), is used. 
 
 - `example-SLCMA-complete-cases.R` 
 
