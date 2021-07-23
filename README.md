@@ -33,7 +33,7 @@ A simulated toy data to use with the `SLCMA_completecase_analysis.R` script, if 
 
 - `SLCMA_imputed_analysis.R`
 
-A script to run the SLCMA / least angle regression (LARS) using multiply imputed data. The post-selection inference method, selective inference (`sI`), is used. This script requires the `LARS-function-imputed_data.R` script below.
+A script to run the SLCMA / LARS using multiply imputed data. The post-selection inference method, selective inference (`sI`), is used. This script requires the `LARS-function-imputed_data.R` script below.
 
 - `LARS-function-imputed_data.R`
 
