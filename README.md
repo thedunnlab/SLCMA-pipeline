@@ -15,6 +15,8 @@ The structured life course modeling approach (SLCMA) is an analytic method that 
 
 Yes, other researchers as well as our lab have used the SLCMA to study the effects of repeated exposures on various health outcomes, such as psychopathology, emotion recognition, or genome-wide DNA methylation. Here are some examples of our work:
 
+> Lussier, A. A., Zhu Y., Smith B. J., Simpkin A. J., Smith A. D. A. C., Suderman M. J., et al. Updates to data versions and analytic methods influence the reproducibility of results from epigenome-wide association studies. bioRxiv. https://doi.org/10.1101/2021.04.23.441014
+
 > Dunn, E. C., Soare, T. W., Zhu, Y., Simpkin, A. J., Suderman, M. J., Klengel, T., … Relton, C. L. (2019). Sensitive Periods for the Effect of Childhood Adversity on DNA Methylation: Results From a Prospective, Longitudinal Study. Biological Psychiatry, 85(10), 838–849. https://doi.org/10.1016/j.biopsych.2018.12.023
 
 > Dunn, E. C., Crawford, K. M., Soare, T. W., Button, K. S., Raffeld, M. R., Smith, A. D. A. C., … Munafò, M. R. (2018). Exposure to childhood adversity and deficits in emotion recognition: Results from a large, population-based sample. Journal of Child Psychology and Psychiatry, 59(8), 845–854. https://doi.org/10.1111/jcpp.12881
