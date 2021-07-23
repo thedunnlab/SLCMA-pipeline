@@ -23,13 +23,25 @@ Yes, other researchers as well as our lab have used the SLCMA to study the effec
 
 ## What are the scripts in this repository? 
 
-- `function-SLCMA-complete-cases.R` 
+- `SLCMA_completecase_analysis.R` 
 
-A function to run the SLCMA / least angle regression (LARS) using complete data. This function does not accomodate imputed objects. The post-selection inference method, selective inference (`sI`), is used. 
+A script to run the SLCMA / least angle regression (LARS) using complete data. This function does not accomodate imputed objects. The post-selection inference method, selective inference (`sI`), is used. 
 
-- `example-SLCMA-complete-cases.R` 
+- `SLCMA_toy_data.Rdata` 
 
-A reproducible example of applying the function to simulated toy data. 
+A simulated toy data to use with the `SLCMA_completecase_analysis.R` script, if desired.
+
+- `SLCMA_imputed_analysis.R`
+
+A script to run the SLCMA / least angle regression (LARS) using multiply imputed data. The post-selection inference method, selective inference (`sI`), is used. This script requires the `LARS-function-imputed_data.R` script below.
+
+- `LARS-function-imputed_data.R`
+
+A function to perform LARS that is sourced within the `SLCMA_imputed_analysis.R` script.
+
+- `Imputation_example_code.R`
+
+A script to use for performing multiple imputation using the `mice` R package.
 
 ## Who should I contact if I have questions? 
 
