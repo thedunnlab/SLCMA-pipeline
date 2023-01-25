@@ -45,6 +45,10 @@ A function to perform LARS that is sourced within the `SLCMA_imputed_analysis.R`
 
 A script to use for performing multiple imputation using the `mice` R package.
 
+- `imputation-function-v1.1.R`
+
+A script that includes the do.impute() function for the imputation.
+
 ## Who should I contact if I have questions? 
 
 Please email us at dunnlab@mgh.harvard.edu. 
