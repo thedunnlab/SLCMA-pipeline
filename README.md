@@ -1,3 +1,7 @@
+# IMPORTANT NOTE #
+This SLCMA pipeline is now largely defunct, as we have transitioned to the slcma package. Although this repository remains open for posterity's sake, we recommend you use the following slcma repository for future analyses: https://github.com/thedunnlab/slcma. 
+
+
 # SLCMA-pipeline
 Pipeline of the structured life course modeling approach analysis
 
