@@ -1,5 +1,5 @@
 # IMPORTANT NOTE #
-This SLCMA pipeline is now largely defunct, as we have transitioned to the slcma package. Although this repository remains open for posterity's sake, we recommend you use the following slcma repository for future analyses: https://github.com/thedunnlab/slcma. 
+This SLCMA pipeline repository is no longer maintained, as we have transitioned to the slcma package, which is a streamlined and more accessible version of this initial set of scripts. Although this repository remains open for posterity's sake, we recommend you use the following slcma repository for future analyses: https://github.com/thedunnlab/slcma. 
 
 
 # SLCMA-pipeline
